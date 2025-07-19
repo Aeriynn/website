@@ -1,6 +1,5 @@
-# Simple Website Using Github Pages
-Make a simple HTML website and publish it using Github Pages.  
-View example: https://cplmakerlab.github.io/simple-website-template/
+# My Little Paradise
+Access to this website: 
 
 ## Setup
 - Create a Github account (if you don't have one yet)
