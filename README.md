@@ -1,5 +1,5 @@
 # My Little Paradise
-Access to this website: 
+Access link [here] (https://aeriynn.github.io/littleparadise/)
 
 ## Setup
 - Create a Github account (if you don't have one yet)
